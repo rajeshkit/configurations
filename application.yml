@@ -1,0 +1,7 @@
+my:
+  greetings: welcome to first cloud server config
+
+connection:
+	url: http://www.rajesh.com
+	ip: 192.168.11.11
+	name: rajesh
